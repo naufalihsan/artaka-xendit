@@ -11,6 +11,17 @@ Artaka integration with Xendit payment gateway
 ### DONE
 - Create QR Code
 
+
+## Installation
+```console
+go get -u github.com/xendit/xendit-go
+go get -u github.com/go-playground/validator
+go get -u github.com/skip2/go-qrcode
+
+go run app.go 
+```
+
+
 ## Authors
 ```
 Naufal Ihsan Pratama
