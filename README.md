@@ -3,13 +3,14 @@
 Artaka integration with Xendit payment gateway
 
 ### TODO
-- Virtual Account
 - Disbursement
 
 ### DONE
 - Create QR Code
 - Get QR Code By ExternalID
 - Simulate Payment QR Code
+- Create Virtual Account
+- Simulate Payment Virtual Account
 
 ## Installation
 ```console
